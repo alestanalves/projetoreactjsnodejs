@@ -1,3 +1,3 @@
-# Projeto de estudo em Front-End
+# Projeto de estudo em Back-End com NodeJS
 
-Projeto em ReactJS, React Native e NodeJS 
+
